@@ -1,0 +1,21 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "b9d68974fd2c17f03b85e226b3d11730b1964c2caebec49d62dcbdbae0ca4479"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "2c9036cb8b9fd9724798c37b189adfb74ee59ab110b333fce0ec3d97a72acb18"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "91b527e24a2f4d971776b58bafd61729373d9067635a80cbfd70f91d488b722e"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "88211953859e54aad30bead849bb571f649439ad266ff5ce7a9cb65b40051a12"
+metafile = true

@@ -19,3 +19,13 @@ metafile = true
 file = "mods/libipn.pw.toml"
 hash = "88211953859e54aad30bead849bb571f649439ad266ff5ce7a9cb65b40051a12"
 metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "82e4bba0d27d42b2550dd1176f22b56160a0dfc61c2609051cfb5874868ab446"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0b71919a370fb96bed1a6bb1cf96994a22ab5d24b5356cb7e276d2212bedc320"
+metafile = true

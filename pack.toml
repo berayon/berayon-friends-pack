@@ -1,12 +1,12 @@
 name = "Berayon Friends 26.2"
 author = "berayon"
-version = "1.2.0"
+version = "1.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2bf885003f6469da57d5e7472c5be4fb08953e7dd37ea13849a0388695d7e4ad"
+hash = "c54ce9995865f32829c1b8cfe9757e2f8cee5dca366bf08e3f5453d8ff37f338"
 
 [versions]
 fabric = "0.19.3"
